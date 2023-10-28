@@ -1,12 +1,12 @@
-<img width="458" alt="image" src="https://github.com/eunjung15/semipj_erd/assets/120345380/fd4fe1d3-bb62-470b-81fe-187aac4faa0e"><div align="center">
-<h1>ERP 기반 프로그램으로 서점의 비지니스 프로세스를 관리하는 시스템</h1>
+
+<h1>ERP 기반 프로그램으로 서점의 비지니스 프로세스를 관리하는 시스템 </h1>
 </div>
  
 <h2>📅 개발 기간 및 작업 관리</h2>
 
 
 <h4>💡 기획 의도</h4>
-- ERP 기반 프로그램으로 서점 비지니스 프로세스를 관리하는 시스
+- ERP 기반 프로그램으로 서점 비지니스 프로세스를 관리하는 시스템
 
 ## ✍️ 프로젝트 기간
 <div align="center"><img src="https://github.com/eunjung15/semipj_erd/assets/135147602/b5894f34-89be-4d19-973d-011e2ec4f8bd"></div>
