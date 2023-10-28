@@ -14,6 +14,12 @@
 <div align="center"><img src="https://github.com/eunjung15/semipj_erd/assets/135147602/b5894f34-89be-4d19-973d-011e2ec4f8bd"></div>
 <br>
 
+
+## 👨‍👩‍👧‍👦 팀원소개 및 업무분담
+<div align="center"><img src="https://github.com/eunjung15/semipj_erd/assets/120345380/0c19bff4-b740-4367-89c5-87bf580998ba"></div>
+<br>
+
+
 ## 📚 DB 설계
 <div align="center"><img src="https://github.com/eunjung15/semipj_erd/assets/120345380/ad956be8-ddac-44ea-9770-5137556722e7"></div>
 <br>
